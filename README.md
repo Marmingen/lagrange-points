@@ -5,4 +5,4 @@ Specifically between a one solar mass object and one super-jovian to jovian mass
 
 ![lpoints](https://user-images.githubusercontent.com/106428188/216445756-c33d00c1-edec-4e11-a980-b8e53981ed6a.png)
 
-The top slider determines the solar mass ($M_1$) in the span of $1M_\odot-5M_\odot$ while the bottom slider determines the orbital mass ($M_2$) in the span of $0.001M_\odot-0.2M_\odot$.
+The top slider determines the solar mass ( $M_1$ ) in the span of $1M_\odot-5M_\odot$ while the bottom slider determines the orbital mass ( $M_2$ ) in the span of $0.001M_\odot-0.2M_\odot$.
