@@ -1,6 +1,6 @@
-from tkinter import *
-
 from Vector import Vector
+
+
 
 class Star():
     
